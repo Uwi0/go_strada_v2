@@ -3,15 +3,20 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Document/project magang/Ikk2 Strada/gostrada v2 kotlin/app/src/main/res/drawable-v24/custom_cursor_login.xml" value="0.2" />
         <entry key="..\:/Document/project magang/Ikk2 Strada/gostrada v2 kotlin/app/src/main/res/drawable-v24/ic_txt_splash_gostrada.xml" value="0.2" />
+        <entry key="..\:/Document/project magang/Ikk2 Strada/gostrada v2 kotlin/app/src/main/res/drawable/bg_button_login.xml" value="0.2" />
         <entry key="..\:/Document/project magang/Ikk2 Strada/gostrada v2 kotlin/app/src/main/res/drawable/bg_splash.xml" value="0.2" />
         <entry key="..\:/Document/project magang/Ikk2 Strada/gostrada v2 kotlin/app/src/main/res/drawable/ic_bg_splash.xml" value="0.22870370370370371" />
+        <entry key="..\:/Document/project magang/Ikk2 Strada/gostrada v2 kotlin/app/src/main/res/drawable/ic_user_login.xml" value="0.2" />
         <entry key="..\:/Document/project magang/Ikk2 Strada/gostrada v2 kotlin/app/src/main/res/font-v26/abel.xml" value="0.26666666666666666" />
         <entry key="..\:/Document/project magang/Ikk2 Strada/gostrada v2 kotlin/app/src/main/res/font-v26/poppins.xml" value="0.26666666666666666" />
         <entry key="..\:/Document/project magang/Ikk2 Strada/gostrada v2 kotlin/app/src/main/res/font-v26/roboto.xml" value="0.26666666666666666" />
         <entry key="..\:/Document/project magang/Ikk2 Strada/gostrada v2 kotlin/app/src/main/res/font/abel.xml" value="0.2" />
         <entry key="..\:/Document/project magang/Ikk2 Strada/gostrada v2 kotlin/app/src/main/res/font/poppins.xml" value="0.2" />
         <entry key="..\:/Document/project magang/Ikk2 Strada/gostrada v2 kotlin/app/src/main/res/font/roboto.xml" value="0.2" />
+        <entry key="..\:/Document/project magang/Ikk2 Strada/gostrada v2 kotlin/app/src/main/res/layout/activity_login.xml" value="0.1758879781420765" />
+        <entry key="..\:/Document/project magang/Ikk2 Strada/gostrada v2 kotlin/app/src/main/res/layout/activity_main.xml" value="0.205859375" />
         <entry key="..\:/Document/project magang/Ikk2 Strada/gostrada v2 kotlin/app/src/main/res/layout/activity_splash.xml" value="0.2" />
       </map>
     </option>

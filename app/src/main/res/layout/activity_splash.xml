@@ -54,7 +54,7 @@
         android:fontFamily="@font/poppins"
         android:text="@string/iik_strada"
         android:textColor="@color/gold"
-        android:textSize="24"
+        android:textSize="24sp"
         app:layout_constraintEnd_toEndOf="@+id/imageView3"
         app:layout_constraintStart_toStartOf="@+id/imageView3"
         app:layout_constraintTop_toBottomOf="@+id/imageView3" />

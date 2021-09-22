@@ -8,4 +8,8 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="gold">#FCD603</color>
+    <color name="white65">#A6FFFFFF</color>
+    <color name="mystic50">#80DEE9EA</color>
+    <color name="silver60">#99C9C9C9</color>
+    <color name="curious_blue">#1E7CD3</color>
 </resources>
