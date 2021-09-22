@@ -12,4 +12,10 @@
     <color name="mystic50">#80DEE9EA</color>
     <color name="silver60">#99C9C9C9</color>
     <color name="curious_blue">#1E7CD3</color>
+    <color name="violet">#290A49</color>
+    <color name="edge_water50">#80C9E1DC</color>
+    <color name="edge_water60">#99C9E1DC</color>
+    <color name="edge_water80">#CCC9E1DC</color>
+    <color name="heathered_gray">#BBB991</color>
+    <color name="scorpion">#716363</color>
 </resources>
