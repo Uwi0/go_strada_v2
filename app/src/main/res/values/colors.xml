@@ -16,6 +16,14 @@
     <color name="edge_water50">#80C9E1DC</color>
     <color name="edge_water60">#99C9E1DC</color>
     <color name="edge_water80">#CCC9E1DC</color>
+    <color name="edge_water">#C9E1DC</color>
     <color name="heathered_gray">#BBB991</color>
     <color name="scorpion">#716363</color>
+    <color name="venice_blue">#0C5A97</color>
+    <color name="trout">#51545F</color>
+    <color name="gray_suit">#CFCCD1</color>
+    <color name="cerulean">#029AD9</color>
+    <color name="spring_green">#0EF078</color>
+    <color name="persian_blue65">#A61C38A3</color>
+    <color name="tundora65">#A64E4343</color>
 </resources>
