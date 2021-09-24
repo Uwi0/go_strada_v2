@@ -45,4 +45,7 @@
     <string name="open_drawer">open drawer</string>
     <string name="icon_bell">icon bell</string>
     <string name="icon_message">icon message</string>
+    <string name="kuliah">Kuliah Metodologi Penelitian</string>
+    <string name="jam">12:00 sd 13.45 wib</string>
+    <string name="dosen">DR. Yuli Prestiowati, M.Kes</string>
 </resources>
