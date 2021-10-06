@@ -48,4 +48,18 @@
     <string name="kuliah">Kuliah Metodologi Penelitian</string>
     <string name="jam">12:00 sd 13.45 wib</string>
     <string name="dosen">DR. Yuli Prestiowati, M.Kes</string>
+    <string name="update_data">Update Data</string>
+    <string name="tanggal_lahir">Kediri , 12 Februari 1977</string>
+    <string name="alamat">Perum  Betet Town House</string>
+    <string name="nomer_telepon">081259055527</string>
+    <string name="email">admin@gmail.com</string>
+    <string name="domisisili_sementara">Domisili sementara / Kost</string>
+    <string name="save">Save</string>
+    <string name="title">Title</string>
+    <string name="time">Time</string>
+    <string name="contact">Contact</string>
+    <string name="location">Location</string>
+    <string name="description">Description</string>
+    <string name="tag_freind">Tag Friend</string>
+    <string name="remind_me">Remind Me</string>
 </resources>

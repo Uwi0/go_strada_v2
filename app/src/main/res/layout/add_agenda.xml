@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@drawable/bg_splash">
+
+    <ImageView
+        android:id="@+id/imageView8"
+        android:layout_width="0dp"
+        android:layout_height="516dp"
+        android:scaleType="fitXY"
+        android:src="@drawable/ic_reminder_bg"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="0dp"
+        android:layout_height="495dp"
+        android:layout_marginStart="24dp"
+        android:layout_marginEnd="24dp"
+        android:layout_marginBottom="80dp"
+        app:cardBackgroundColor="@color/biscay"
+        app:cardCornerRadius="16dp"
+        app:layout_constraintBottom_toBottomOf="@+id/imageView8"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <EditText
+                android:id="@+id/editTextTextPersonName9"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="10dp"
+                android:layout_marginTop="20dp"
+                android:layout_marginEnd="10dp"
+                android:drawableStart="@drawable/ic_kalender_akademik"
+                android:drawablePadding="10dp"
+                android:ems="10"
+                android:inputType="textPersonName"
+                android:minHeight="48dp"
+                android:text="@string/title"
+                android:textColor="@color/white65"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <EditText
+                android:id="@+id/editTextTextPersonName10"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:drawableStart="@drawable/ic_jadwal_kuliah"
+                android:drawablePadding="10dp"
+                android:ems="10"
+                android:inputType="textPersonName"
+                android:minHeight="48dp"
+                android:text="@string/time"
+                android:textColor="@color/white65"
+                app:layout_constraintEnd_toEndOf="@+id/editTextTextPersonName9"
+                app:layout_constraintStart_toStartOf="@+id/editTextTextPersonName9"
+                app:layout_constraintTop_toBottomOf="@+id/editTextTextPersonName9" />
+
+            <EditText
+                android:id="@+id/editTextTextPersonName11"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:drawableStart="@drawable/ic_chalk_board"
+                android:drawablePadding="10dp"
+                android:ems="10"
+                android:inputType="textPersonName"
+                android:minHeight="48dp"
+                android:text="@string/contact"
+                android:textColor="@color/white65"
+                app:layout_constraintEnd_toEndOf="@+id/editTextTextPersonName10"
+                app:layout_constraintStart_toStartOf="@+id/editTextTextPersonName10"
+                app:layout_constraintTop_toBottomOf="@+id/editTextTextPersonName10" />
+
+            <EditText
+                android:id="@+id/editTextTextPersonName12"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:drawableStart="@drawable/ic_request_surat"
+                android:drawablePadding="10dp"
+                android:ems="10"
+                android:inputType="textPersonName"
+                android:minHeight="48dp"
+                android:text="@string/description"
+                android:textColor="@color/white65"
+                app:layout_constraintEnd_toEndOf="@+id/editTextTextPersonName11"
+                app:layout_constraintStart_toStartOf="@+id/editTextTextPersonName11"
+                app:layout_constraintTop_toBottomOf="@+id/editTextTextPersonName11" />
+
+            <EditText
+                android:id="@+id/editTextTextPersonName13"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:drawableStart="@drawable/ic_location"
+                android:drawablePadding="10dp"
+                android:ems="10"
+                android:inputType="textPersonName"
+                android:minHeight="48dp"
+                android:text="@string/location"
+                android:textColor="@color/white65"
+                app:layout_constraintEnd_toEndOf="@+id/editTextTextPersonName12"
+                app:layout_constraintStart_toStartOf="@+id/editTextTextPersonName12"
+                app:layout_constraintTop_toBottomOf="@+id/editTextTextPersonName12" />
+
+            <EditText
+                android:id="@+id/editTextTextPersonName14"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:drawableStart="@drawable/ic_share"
+                android:drawablePadding="10dp"
+                android:ems="10"
+                android:inputType="textPersonName"
+                android:minHeight="48dp"
+                android:text="@string/tag_freind"
+                android:textColor="@color/white65"
+                app:layout_constraintEnd_toEndOf="@+id/editTextTextPersonName13"
+                app:layout_constraintStart_toStartOf="@+id/editTextTextPersonName13"
+                app:layout_constraintTop_toBottomOf="@+id/editTextTextPersonName13" />
+
+            <EditText
+                android:id="@+id/editTextTextPersonName15"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:drawableStart="@drawable/ic_bell_line"
+                android:drawablePadding="10dp"
+                android:ems="10"
+                android:inputType="textPersonName"
+                android:minHeight="48dp"
+                android:text="@string/remind_me"
+                android:textColor="@color/white65"
+                app:layout_constraintEnd_toEndOf="@+id/editTextTextPersonName14"
+                app:layout_constraintStart_toStartOf="@+id/editTextTextPersonName14"
+                app:layout_constraintTop_toBottomOf="@+id/editTextTextPersonName14" />
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </androidx.cardview.widget.CardView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
